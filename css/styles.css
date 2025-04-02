@@ -44,6 +44,7 @@ main {
     max-width: 900px;
     margin: auto;
     background: white;
+    margin-bottom: 6em;
   
    
 }
@@ -62,10 +63,8 @@ img {
 /* Features Section */
 .feature-item {
     margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background: #f9f9f9;
+     
+   
 }
 
 /* Contact Form */
@@ -76,7 +75,7 @@ form {
 }
 
 label {
-    font-weight: bold;
+    font-weight: normal;
 }
 
 input, textarea {
@@ -121,5 +120,8 @@ footer {
     }
     main {
         padding: 15px;
+        margin-bottom: 6em;
     }
+
+      footer{width:100%;}
 }
