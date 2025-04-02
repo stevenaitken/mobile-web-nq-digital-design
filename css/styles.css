@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Raleway", sans-serif;
     margin: 0;
     padding: 0;
     background-color: #ffffff;
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #ff4500;
+    background-color: #DB3A00;
     padding: 15px 0;
     text-align: center;
 }
@@ -33,7 +33,7 @@ nav ul li a {
 }
 /* Highlight active page */
 nav ul li a.active {
-    background-color: #ffd700;
+    background-color: #5800FF;
     color: #fff;
     max-height: 100%;
     padding: 1em;
@@ -50,7 +50,7 @@ main {
 }
 
 h1, h2 {
-    color: #a9a9a9;
+    color: #757575;
 }
 
 img {
@@ -101,7 +101,7 @@ button:hover {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #ff1493;
+    background-color: #E01280;
     color: white;
     margin-top: 20px;
     position:fixed;
